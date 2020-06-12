@@ -1,3 +1,5 @@
+# Exclude docs. User should generate this as an example following the README.
+docs/
 
 # Created by https://www.toptal.com/developers/gitignore/api/sbt,scala,intellij,osx
 # Edit at https://www.toptal.com/developers/gitignore?templates=sbt,scala,intellij,osx
